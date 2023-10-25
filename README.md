@@ -6,3 +6,18 @@
 
 ### Tools Used
   - Excel (Data Cleaning and Analysis)
+
+### Data Cleaning/Preparation
+
+### Exploratory Data Analysis
+
+### Data Analysis
+
+### Results/Findings
+
+### Recommendations
+
+### Limitations
+
+
+### References
