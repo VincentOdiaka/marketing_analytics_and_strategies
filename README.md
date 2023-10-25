@@ -1,2 +1,8 @@
-# marketing_analytics_and_strategies
-Examining Factors responsible for the relative failure of a campaign strategies in a banking institution located in Portugal
+# Marketing Strategies and its Analytics on the Outcome of the campaigns in the introduction of a banking term deposit in Portugal
+
+### Project Overview
+
+### Data Sources
+
+### Tools Used
+  - Excel (Data Cleaning and Analysis)
