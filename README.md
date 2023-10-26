@@ -26,6 +26,7 @@ In the initial data preparation phase, the following tasks were performed:
 - Removal of blank and empty spaces
 - Formatting and conversion to numeric in preparation for data modelling.
 
+
 ### Exploratory Data Analysis
 Exploratory data analysis involves exploring the bank subscribed dataset to answer key questions such as:
 
@@ -33,12 +34,32 @@ Exploratory data analysis involves exploring the bank subscribed dataset to answ
 2. Does the type of job clients engage in influences their choice of subscribing to the term deposit? 
 3. How impactful are the duration of calls on the choices made by potential clients to subscribe to the term deposit? 
 4. What set of features bare more impact on the choice of clients in subscribing to the term deposits?
+
    
 ### Data Analysis
 
+
+
 ### Results/Findings
+  - Higher percentage of those who subscribed to the term deposit are married with 51% of this, falling in the age bracket of 31 to 48.
+  - Majority of those who accepted the new term deposits are those who are gainfully and actively employed either in the public sector or private sector. This represents over 80% of the overall proportion 
+    of those who accepted the term deposit.
+  - The positive effect of lenghty duration of talking time is evident on those who accepted the term deposit. The average duration of calls made to them is 3.5 times higher than those who rejected the 
+    new term deposit.
+  - The four dominant factors that are statistically significant and plays a key role are Duration, Month, Marital and Day. 
+    
 
 ### Recommendations
+Based on the findings above, the following recommendations are put forward: 
+
+  1. An encompassing targeted and concentrated campaign mechanism should be channelled to include more potential clients who are married as this would result to a rise in acceptance.
+   
+  2. It is obvious that those who are gainfully employed favours the new term deposit. Hence, much more efforts should be reach out to those who actively earning a living, and this will result in increase      in acceptance, and which will in turn result in the success of the campaign.
+   
+  3. Improve duration of calls as this has a direct and big impact on the acceptance of the term deposit. In addition to this, other means of campaign other than calls such as distribution of fliers, use       of mails and so on can be helpful.
+   
+  4. From the analysis, since four factors plays major role and have more impact on the choice of potential clients accepting the new term deposits, it is very important to include other features such as       geographical considerations, effect of economic policies on potential clients and analyse their effectiveness on the campaign.
+
 
 ### Limitations
 
