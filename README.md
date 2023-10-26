@@ -61,10 +61,10 @@ Based on the findings above, the following recommendations are put forward:
   4. From the analysis, since four factors plays major role and have more impact on the choice of potential clients accepting the new term deposits, it is very important to include other features such as       geographical considerations, effect of economic policies on potential clients and analyse their effectiveness on the campaign.
 
 
-### Limitations
-
-
-### References
+### Challenges Encountered
+Some of the challenges encountered while carrying out this project include: 
+  -  Removal of records that were blank and I had to modify the categorical variables to perform regression analysis. 
+  -  Omission of key features from the dataset. 
 
 😄
 
