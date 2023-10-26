@@ -30,14 +30,14 @@ In the initial data preparation phase, the following tasks were performed:
 ### Exploratory Data Analysis
 Exploratory data analysis involves exploring the bank subscribed dataset to answer key questions such as:
 
-1. How impactful is age and marital status on the likelihood of subscribing to the term deposit? 
-2. Does the type of job clients engage in influences their choice of subscribing to the term deposit? 
-3. How impactful are the duration of calls on the choices made by potential clients to subscribe to the term deposit? 
-4. What set of features bare more impact on the choice of clients in subscribing to the term deposits?
+  1. How impactful is age and marital status on the likelihood of subscribing to the term deposit? 
+  2. Does the type of job clients engage in influences their choice of subscribing to the term deposit? 
+  3. How impactful are the duration of calls on the choices made by potential clients to subscribe to the term deposit? 
+  4. What set of features bare more impact on the choice of clients in subscribing to the term deposits?
 
    
 ### Data Analysis
-
+Power Query Functionalities was used.
 
 
 ### Results/Findings
