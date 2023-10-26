@@ -21,9 +21,19 @@ Bank Subscribed Dataset: The primary dataset used in this analysis is the “ban
 
 
 ### Data Cleaning/Preparation
+In the initial data preparation phase, the following tasks were performed: 
+- Data loading and inspection
+- Removal of blank and empty spaces
+- Formatting and conversion to numeric in preparation for data modelling.
 
 ### Exploratory Data Analysis
+Exploratory data analysis involves exploring the bank subscribed dataset to answer key questions such as:
 
+1. How impactful is age and marital status on the likelihood of subscribing to the term deposit? 
+2. Does the type of job clients engage in influences their choice of subscribing to the term deposit? 
+3. How impactful are the duration of calls on the choices made by potential clients to subscribe to the term deposit? 
+4. What set of features bare more impact on the choice of clients in subscribing to the term deposits?
+   
 ### Data Analysis
 
 ### Results/Findings
