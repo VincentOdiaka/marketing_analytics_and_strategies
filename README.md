@@ -44,7 +44,7 @@ Power Query Functionalities was used.
   - Higher percentage of those who subscribed to the term deposit are married with 51% of this, falling in the age bracket of 31 to 48.
   - Majority of those who accepted the new term deposits are those who are gainfully and actively employed either in the public sector or private sector. This represents over 80% of the overall proportion 
     of those who accepted the term deposit.
-  - The positive effect of lenghty duration of talking time is evident on those who accepted the term deposit. The average duration of calls made to them is 3.5 times higher than those who rejected the 
+  - The positive effect of lengthy duration of talking time is evident on those who accepted the term deposit. The average duration of calls made to them is 3.5 times higher than those who rejected the 
     new term deposit.
   - The four dominant factors that are statistically significant and plays a key role are Duration, Month, Marital and Day. 
     
