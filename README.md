@@ -1,4 +1,4 @@
-# Marketing Strategies and its Analytics 
+# Marketing Analytics 
 
 ### Project Overview
 This data analysis project aims to provide insight into campaign strategy of a banking institution in Portugal who has recently introduced a term deposit to his 
